@@ -1,0 +1,18 @@
+{
+  "name": "cylinder",
+  "version": "1.0.0",
+  "description": "cylinder calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "swanzy",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "node-fetch": "^3.2.6"
+  }
+}
